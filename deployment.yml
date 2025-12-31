@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: spring-boot-app
-          image: vicktor3000/demo:replaceImageTag
+          image: vicktor3000/demo:6
           ports:
             - containerPort: 8080
